@@ -23,7 +23,7 @@ This project attempts to predict the scaled sound pressure levels in decibels, b
     1. Sound Pressure Level
 ### Deployed version:
 
-[Airfoil Prediction App](https://airfoil2.herokuapp.com/)
+[Airfoil Prediction App](https://airfoil2.herokuapp.com/){target="_blank"}
 
 **[⬆ Back to Top](#Airfoil-Regression-With-Deployment)**
 
